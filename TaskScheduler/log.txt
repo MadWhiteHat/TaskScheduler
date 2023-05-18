@@ -1,0 +1,6 @@
+ERROR: 0x80070057; ITaskFolder::RegisterTaskDefinition
+ERROR: 0x80070057; ITaskFolder::RegisterTaskDefinition
+ERROR: 0x80070057; ITaskFolder::RegisterTaskDefinition
+ERROR: 0x80070057; ITaskFolder::RegisterTaskDefinition
+ERROR: 0x80070057; ITaskFolder::RegisterTaskDefinition
+ERROR: 0x80070057; ITaskFolder::RegisterTaskDefinition
