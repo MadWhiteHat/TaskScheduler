@@ -3,7 +3,7 @@
 
 #include <windows.h>
 
-int wmain(const int argc, const wchar_t* argv) {
+int wmain(const int argc, const wchar_t** argv) {
 
 	std::wstring __args;
 	for (int i = 1; i < argc; ++i) {
